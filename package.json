@@ -1,0 +1,39 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "baitap",
+    "nodejs",
+    "bai",
+    "tap"
+  ],
+  "author": "Duy Khanh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "mongoose": "^5.10.15",
+    "morgan": "^1.10.0",
+    "node": "^15.2.1",
+    "node-sass": "^5.0.0",
+    "sass": "^1.29.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/637737vnua/backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/637737vnua/backend/issues"
+  },
+  "homepage": "https://github.com/637737vnua/backend#readme"
+}

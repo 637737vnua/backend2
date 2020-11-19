@@ -1,0 +1,87 @@
+/* CSS header*/
+.login{
+    width: 60%;
+    margin: auto;
+    margin-top: 15%;
+    margin-bottom: 10%;
+}
+.login h1{
+    margin-bottom: 15%;
+    text-align: center;
+}
+.background-login{
+    border-radius: 2rem;
+}
+.btn-login{
+    margin-bottom: 2%;
+    border-radius: 3rem;
+}
+.btn-login1{
+    margin-top: 10%;
+}
+
+.bottom-navbar{
+    background-color: #f8f9fa;
+    padding-bottom: 2%;
+    border-bottom:rgb(255, 255, 255) solid 2px;
+    box-shadow: black 0 0 8px 2px;
+}
+/* CSS Home*/
+.home-home{
+    margin-top: 5%;
+}
+.home{
+    float: left;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin-left: 2%;
+    width: 60%;
+    background-color: #fff;
+}
+.nav-home-all{
+    border-radius: 6px 6px 0 0;
+    color: #fff;
+}
+.home2{
+    float: left;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    width: 30%;
+    background-color: #fff;
+
+}
+.home2 p{
+    margin: 4%;
+}
+.home2 p b{
+    margin-bottom: 5%;
+    float: right;
+}
+.nav-home-all2{
+    border-radius: 6px 6px 0 0;
+    color: #fff;
+}
+/*bock-home*/
+.home_bock{
+    padding: 1% 3% 2% 3%;
+    border: #ccc solid 1px;
+    text-align: center;
+    display: inline-block;
+    margin: 2% 2% 0 4%;
+}
+.home_bock .btn{
+    margin-top: 5%;
+}
+.footer{
+    margin-top: 2%;
+    border-top: #fff 3px;
+    box-shadow: black 0 0 8px 2px; ;
+    width: 100%;
+    float: left;
+}
+.list-page{
+    margin-top: 2%;
+    margin-right: 5%;
+}
