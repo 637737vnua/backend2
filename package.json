@@ -4,7 +4,7 @@
   "description": "backend",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon --inspect index.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -30,10 +30,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/637737vnua/backend.git"
+    "url": "git+https://github.com/637737vnua/backend2.git"
   },
   "bugs": {
-    "url": "https://github.com/637737vnua/backend/issues"
+    "url": "https://github.com/637737vnua/backend2/issues"
   },
-  "homepage": "https://github.com/637737vnua/backend#readme"
+  "homepage": "https://github.com/637737vnua/backend2#readme"
 }
