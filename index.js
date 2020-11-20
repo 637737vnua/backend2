@@ -5,10 +5,7 @@ const handlebars = require('express-handlebars');
 
 
 const route = require ('./routes');
-const db = require('./config/db');
 
-// Connect db
-db.connect();
 
 const app = express();
 const port = process.env.PORT || 5000;
